@@ -25,12 +25,17 @@ Youtube Screen Recording https://youtu.be/xBDY75f4ftw
 
 Database Information:
 Host        ec2-3-234-109-123.compute-1.amazonaws.com
+
 Database    dcg1phll5jsck3
+
 User        yxglmjgpfdpdds
+
 Port        5432
-Password    29d1c599fdb113d5d001ac58da80cd32ffd8870cc98ed67d6
-            3d0df1bc9185f60
-URI         postgres://     yxglmjgpfdpdds:29d1c599fdb113d5d001ac58da80cd32ffd8870cc98ed67d63d0df1bc9185f60@ec2-3-234-109-123.compute-1.amazonaws.com:5432/dcg1phll5jsck3
+
+Password    29d1c599fdb113d5d001ac58da80cd32ffd8870cc98ed67d63d0df1bc9185f60
+
+URI         postgres://yxglmjgpfdpdds:29d1c599fdb113d5d001ac58da80cd32ffd8870cc98ed67d63d0df1bc9185f60@ec2-3-234-109-123.compute-1.amazonaws.com:5432/dcg1phll5jsck3
+
 Heroku CLI  heroku pg:psql postgresql-graceful-07672 --app engo551lab1jeff
 
 GoodReads Information:

@@ -21,6 +21,8 @@ book.html - after a book is selected from the search page, the book webpage open
 
 error.html - The error page handled all situations that may have proved problematic for the nature of the script. It redirects to the welcome page.
 
+Youtube Screen Recording https://youtu.be/xBDY75f4ftw
+
 Database Information:
 Host        ec2-3-234-109-123.compute-1.amazonaws.com
 Database    dcg1phll5jsck3
